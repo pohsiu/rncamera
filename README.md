@@ -1,6 +1,6 @@
 # rncamera
 
-working version with android
+working version with android (react-native-camera example)
 
   ```"dependencies": {
     "react": "16.3.1",
